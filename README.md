@@ -1,1 +1,1 @@
-# my-wedsite
+# my-website
